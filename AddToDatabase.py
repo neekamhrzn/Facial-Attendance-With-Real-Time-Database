@@ -2,10 +2,10 @@ import pyrebase
 from datetime import datetime
 
 config={
-    "apiKey": "AIzaSyCumqnQCEQ10Ab0pE103Y4PgeEm-fY66eo",
+    "apiKey": "",   #put api key
     "authDomain": "demodb-35b2b.firebaseapp.com",
     "projectId": "demodb-35b2b",
-    "databaseURL":"https://demodb-35b2b-default-rtdb.firebaseio.com/",
+    "databaseURL":"",    #firebase database link
     "storageBucket": "demodb-35b2b.appspot.com",
     "messagingSenderId": "1002446830137",
     "appId": "1:1002446830137:web:e7864fe9532d58a3c22be8",
